@@ -1,0 +1,4216 @@
+[
+    {
+        "objeto": "person",
+        "confianca": 0.8091448545455933,
+        "coordenadas": [
+            139,
+            205,
+            488,
+            395
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.8233190178871155,
+        "coordenadas": [
+            137,
+            206,
+            485,
+            395
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.83321213722229,
+        "coordenadas": [
+            139,
+            206,
+            485,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.8008239269256592,
+        "coordenadas": [
+            137,
+            206,
+            486,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.8411654233932495,
+        "coordenadas": [
+            138,
+            206,
+            489,
+            395
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.8045644760131836,
+        "coordenadas": [
+            140,
+            207,
+            487,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.7687867283821106,
+        "coordenadas": [
+            141,
+            206,
+            487,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.8257038593292236,
+        "coordenadas": [
+            140,
+            206,
+            487,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.7997629046440125,
+        "coordenadas": [
+            140,
+            207,
+            486,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.8046165108680725,
+        "coordenadas": [
+            142,
+            208,
+            482,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.7736758589744568,
+        "coordenadas": [
+            139,
+            206,
+            487,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.8295181393623352,
+        "coordenadas": [
+            141,
+            207,
+            484,
+            393
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.8616197109222412,
+        "coordenadas": [
+            141,
+            206,
+            481,
+            393
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.8734171986579895,
+        "coordenadas": [
+            142,
+            205,
+            480,
+            393
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.8633187413215637,
+        "coordenadas": [
+            142,
+            207,
+            480,
+            392
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.803902268409729,
+        "coordenadas": [
+            140,
+            206,
+            488,
+            392
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.7823249101638794,
+        "coordenadas": [
+            143,
+            206,
+            484,
+            392
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.7173870801925659,
+        "coordenadas": [
+            142,
+            205,
+            484,
+            392
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.7524701356887817,
+        "coordenadas": [
+            141,
+            205,
+            483,
+            391
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.615142285823822,
+        "coordenadas": [
+            143,
+            205,
+            483,
+            392
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.44317156076431274,
+        "coordenadas": [
+            143,
+            204,
+            487,
+            393
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.487006813287735,
+        "coordenadas": [
+            159,
+            205,
+            494,
+            393
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.6517313122749329,
+        "coordenadas": [
+            161,
+            205,
+            494,
+            392
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.6484912037849426,
+        "coordenadas": [
+            164,
+            205,
+            493,
+            393
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.5534785985946655,
+        "coordenadas": [
+            161,
+            205,
+            496,
+            394
+        ]
+    },
+    {
+        "objeto": "donut",
+        "confianca": 0.4130620062351227,
+        "coordenadas": [
+            343,
+            202,
+            422,
+            270
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.7708765864372253,
+        "coordenadas": [
+            164,
+            205,
+            493,
+            394
+        ]
+    },
+    {
+        "objeto": "donut",
+        "confianca": 0.2935084104537964,
+        "coordenadas": [
+            344,
+            203,
+            415,
+            270
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.6313694715499878,
+        "coordenadas": [
+            163,
+            205,
+            493,
+            393
+        ]
+    },
+    {
+        "objeto": "donut",
+        "confianca": 0.3397451639175415,
+        "coordenadas": [
+            343,
+            203,
+            422,
+            270
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.6306072473526001,
+        "coordenadas": [
+            165,
+            204,
+            497,
+            393
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.6205059885978699,
+        "coordenadas": [
+            165,
+            206,
+            494,
+            393
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.49225926399230957,
+        "coordenadas": [
+            163,
+            203,
+            500,
+            393
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.6703981757164001,
+        "coordenadas": [
+            163,
+            205,
+            496,
+            395
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.6617741584777832,
+        "coordenadas": [
+            165,
+            206,
+            494,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.7490378022193909,
+        "coordenadas": [
+            165,
+            205,
+            495,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.7722918391227722,
+        "coordenadas": [
+            161,
+            206,
+            498,
+            393
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.7644245624542236,
+        "coordenadas": [
+            164,
+            205,
+            496,
+            393
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.5217708945274353,
+        "coordenadas": [
+            161,
+            205,
+            500,
+            393
+        ]
+    },
+    {
+        "objeto": "donut",
+        "confianca": 0.31843793392181396,
+        "coordenadas": [
+            339,
+            206,
+            407,
+            275
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.7818492650985718,
+        "coordenadas": [
+            164,
+            205,
+            496,
+            393
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.7457960247993469,
+        "coordenadas": [
+            163,
+            204,
+            497,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.758513867855072,
+        "coordenadas": [
+            162,
+            204,
+            499,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.6658095121383667,
+        "coordenadas": [
+            161,
+            203,
+            497,
+            395
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.7898046374320984,
+        "coordenadas": [
+            163,
+            203,
+            496,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.7343928217887878,
+        "coordenadas": [
+            161,
+            203,
+            498,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.7604977488517761,
+        "coordenadas": [
+            164,
+            203,
+            496,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.7653733491897583,
+        "coordenadas": [
+            161,
+            201,
+            496,
+            395
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.7389500737190247,
+        "coordenadas": [
+            169,
+            202,
+            491,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.8468340635299683,
+        "coordenadas": [
+            174,
+            203,
+            490,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.790547788143158,
+        "coordenadas": [
+            176,
+            203,
+            485,
+            395
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.7949132323265076,
+        "coordenadas": [
+            173,
+            205,
+            488,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.7570234537124634,
+        "coordenadas": [
+            173,
+            203,
+            488,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.764998197555542,
+        "coordenadas": [
+            166,
+            203,
+            493,
+            395
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.7062934637069702,
+        "coordenadas": [
+            161,
+            203,
+            495,
+            395
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.6725876331329346,
+        "coordenadas": [
+            156,
+            202,
+            498,
+            395
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.5362476110458374,
+        "coordenadas": [
+            157,
+            203,
+            499,
+            395
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.48452743887901306,
+        "coordenadas": [
+            158,
+            205,
+            500,
+            393
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.5906659364700317,
+        "coordenadas": [
+            157,
+            203,
+            494,
+            396
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.6450615525245667,
+        "coordenadas": [
+            157,
+            203,
+            499,
+            395
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.61387038230896,
+        "coordenadas": [
+            147,
+            203,
+            500,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.6218249797821045,
+        "coordenadas": [
+            150,
+            204,
+            497,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.5404815673828125,
+        "coordenadas": [
+            145,
+            204,
+            499,
+            392
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.7173970341682434,
+        "coordenadas": [
+            165,
+            205,
+            490,
+            393
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.6264142990112305,
+        "coordenadas": [
+            176,
+            204,
+            489,
+            393
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.6394710540771484,
+        "coordenadas": [
+            184,
+            205,
+            486,
+            390
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.44775304198265076,
+        "coordenadas": [
+            178,
+            204,
+            482,
+            392
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.5143672823905945,
+        "coordenadas": [
+            175,
+            205,
+            483,
+            392
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.3700712025165558,
+        "coordenadas": [
+            154,
+            207,
+            493,
+            392
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.2647596597671509,
+        "coordenadas": [
+            150,
+            206,
+            496,
+            393
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.49237489700317383,
+        "coordenadas": [
+            147,
+            206,
+            500,
+            391
+        ]
+    },
+    {
+        "objeto": "donut",
+        "confianca": 0.3094794452190399,
+        "coordenadas": [
+            399,
+            202,
+            480,
+            272
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.6426379084587097,
+        "coordenadas": [
+            154,
+            206,
+            493,
+            392
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.30909380316734314,
+        "coordenadas": [
+            159,
+            209,
+            492,
+            392
+        ]
+    },
+    {
+        "objeto": "cat",
+        "confianca": 0.2916722893714905,
+        "coordenadas": [
+            158,
+            207,
+            493,
+            389
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.4938293993473053,
+        "coordenadas": [
+            160,
+            207,
+            492,
+            393
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.6407487392425537,
+        "coordenadas": [
+            152,
+            210,
+            495,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.6170048117637634,
+        "coordenadas": [
+            154,
+            211,
+            492,
+            392
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.4440173804759979,
+        "coordenadas": [
+            150,
+            214,
+            495,
+            393
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.5347794890403748,
+        "coordenadas": [
+            128,
+            209,
+            491,
+            392
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.5769192576408386,
+        "coordenadas": [
+            120,
+            206,
+            487,
+            393
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.5290800929069519,
+        "coordenadas": [
+            113,
+            207,
+            490,
+            390
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.6522977352142334,
+        "coordenadas": [
+            112,
+            207,
+            496,
+            391
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.5300086140632629,
+        "coordenadas": [
+            120,
+            206,
+            498,
+            393
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.7465536594390869,
+        "coordenadas": [
+            115,
+            206,
+            499,
+            390
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.6963632702827454,
+        "coordenadas": [
+            111,
+            204,
+            497,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.6557405591011047,
+        "coordenadas": [
+            111,
+            202,
+            496,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.5322290062904358,
+        "coordenadas": [
+            105,
+            208,
+            493,
+            393
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.7244280576705933,
+        "coordenadas": [
+            110,
+            205,
+            483,
+            392
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.7719283699989319,
+        "coordenadas": [
+            111,
+            206,
+            482,
+            392
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.8178688287734985,
+        "coordenadas": [
+            113,
+            204,
+            457,
+            392
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.6434659361839294,
+        "coordenadas": [
+            108,
+            204,
+            435,
+            390
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.7345520257949829,
+        "coordenadas": [
+            105,
+            204,
+            410,
+            389
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.7804771661758423,
+        "coordenadas": [
+            104,
+            206,
+            378,
+            391
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.8127001523971558,
+        "coordenadas": [
+            104,
+            204,
+            371,
+            391
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.6986231803894043,
+        "coordenadas": [
+            108,
+            203,
+            337,
+            391
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.7846878170967102,
+        "coordenadas": [
+            107,
+            205,
+            309,
+            392
+        ]
+    },
+    {
+        "objeto": "laptop",
+        "confianca": 0.3214159905910492,
+        "coordenadas": [
+            387,
+            306,
+            498,
+            396
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.47582539916038513,
+        "coordenadas": [
+            105,
+            207,
+            297,
+            393
+        ]
+    },
+    {
+        "objeto": "laptop",
+        "confianca": 0.27733421325683594,
+        "coordenadas": [
+            377,
+            308,
+            497,
+            395
+        ]
+    },
+    {
+        "objeto": "laptop",
+        "confianca": 0.35936787724494934,
+        "coordenadas": [
+            350,
+            306,
+            496,
+            395
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.340353786945343,
+        "coordenadas": [
+            103,
+            208,
+            266,
+            392
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.5050825476646423,
+        "coordenadas": [
+            103,
+            263,
+            225,
+            395
+        ]
+    },
+    {
+        "objeto": "laptop",
+        "confianca": 0.3679198622703552,
+        "coordenadas": [
+            307,
+            308,
+            489,
+            395
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.3237976133823395,
+        "coordenadas": [
+            104,
+            270,
+            216,
+            394
+        ]
+    },
+    {
+        "objeto": "laptop",
+        "confianca": 0.3094722032546997,
+        "coordenadas": [
+            295,
+            305,
+            493,
+            395
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.8089598417282104,
+        "coordenadas": [
+            386,
+            296,
+            446,
+            397
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.49029719829559326,
+        "coordenadas": [
+            388,
+            302,
+            449,
+            397
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.8425084352493286,
+        "coordenadas": [
+            392,
+            305,
+            449,
+            397
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.6034854650497437,
+        "coordenadas": [
+            393,
+            308,
+            451,
+            397
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.5613356232643127,
+        "coordenadas": [
+            102,
+            296,
+            167,
+            395
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.6630315184593201,
+        "coordenadas": [
+            385,
+            285,
+            444,
+            395
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.6125901937484741,
+        "coordenadas": [
+            101,
+            292,
+            148,
+            394
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.8295615315437317,
+        "coordenadas": [
+            377,
+            232,
+            436,
+            392
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.8234667778015137,
+        "coordenadas": [
+            375,
+            231,
+            434,
+            392
+        ]
+    },
+    {
+        "objeto": "vase",
+        "confianca": 0.5449499487876892,
+        "coordenadas": [
+            372,
+            206,
+            432,
+            388
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.4442794919013977,
+        "coordenadas": [
+            372,
+            205,
+            433,
+            384
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.5446826815605164,
+        "coordenadas": [
+            223,
+            203,
+            272,
+            302
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.3808865547180176,
+        "coordenadas": [
+            374,
+            202,
+            437,
+            329
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.688103199005127,
+        "coordenadas": [
+            223,
+            203,
+            272,
+            280
+        ]
+    },
+    {
+        "objeto": "keyboard",
+        "confianca": 0.5762360692024231,
+        "coordenadas": [
+            295,
+            242,
+            379,
+            281
+        ]
+    },
+    {
+        "objeto": "remote",
+        "confianca": 0.48401352763175964,
+        "coordenadas": [
+            294,
+            242,
+            379,
+            280
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.6656963229179382,
+        "coordenadas": [
+            221,
+            202,
+            271,
+            278
+        ]
+    },
+    {
+        "objeto": "remote",
+        "confianca": 0.3873167335987091,
+        "coordenadas": [
+            293,
+            241,
+            378,
+            277
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.2655060291290283,
+        "coordenadas": [
+            374,
+            202,
+            437,
+            306
+        ]
+    },
+    {
+        "objeto": "cup",
+        "confianca": 0.43658408522605896,
+        "coordenadas": [
+            225,
+            203,
+            272,
+            231
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.3654756546020508,
+        "coordenadas": [
+            379,
+            203,
+            439,
+            260
+        ]
+    },
+    {
+        "objeto": "remote",
+        "confianca": 0.46471479535102844,
+        "coordenadas": [
+            297,
+            203,
+            384,
+            241
+        ]
+    },
+    {
+        "objeto": "cup",
+        "confianca": 0.4046030342578888,
+        "coordenadas": [
+            225,
+            202,
+            274,
+            240
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.35459184646606445,
+        "coordenadas": [
+            225,
+            201,
+            274,
+            240
+        ]
+    },
+    {
+        "objeto": "cup",
+        "confianca": 0.37459325790405273,
+        "coordenadas": [
+            227,
+            202,
+            275,
+            243
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.3625982403755188,
+        "coordenadas": [
+            227,
+            202,
+            274,
+            243
+        ]
+    },
+    {
+        "objeto": "cup",
+        "confianca": 0.2817751467227936,
+        "coordenadas": [
+            381,
+            203,
+            443,
+            272
+        ]
+    },
+    {
+        "objeto": "cup",
+        "confianca": 0.4222346544265747,
+        "coordenadas": [
+            229,
+            202,
+            277,
+            247
+        ]
+    },
+    {
+        "objeto": "cup",
+        "confianca": 0.39173048734664917,
+        "coordenadas": [
+            382,
+            203,
+            444,
+            276
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.37979239225387573,
+        "coordenadas": [
+            229,
+            201,
+            278,
+            250
+        ]
+    },
+    {
+        "objeto": "remote",
+        "confianca": 0.37534141540527344,
+        "coordenadas": [
+            300,
+            210,
+            386,
+            250
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.3258647620677948,
+        "coordenadas": [
+            110,
+            216,
+            410,
+            395
+        ]
+    },
+    {
+        "objeto": "cup",
+        "confianca": 0.3107573688030243,
+        "coordenadas": [
+            383,
+            202,
+            445,
+            278
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.5348285436630249,
+        "coordenadas": [
+            107,
+            211,
+            377,
+            395
+        ]
+    },
+    {
+        "objeto": "cup",
+        "confianca": 0.4340466856956482,
+        "coordenadas": [
+            230,
+            202,
+            279,
+            250
+        ]
+    },
+    {
+        "objeto": "remote",
+        "confianca": 0.4037756323814392,
+        "coordenadas": [
+            301,
+            213,
+            388,
+            250
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.2844611704349518,
+        "coordenadas": [
+            384,
+            203,
+            447,
+            280
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.345508337020874,
+        "coordenadas": [
+            227,
+            202,
+            275,
+            238
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.30858808755874634,
+        "coordenadas": [
+            102,
+            204,
+            223,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.5250999927520752,
+        "coordenadas": [
+            102,
+            204,
+            148,
+            390
+        ]
+    },
+    {
+        "objeto": "cup",
+        "confianca": 0.38478925824165344,
+        "coordenadas": [
+            226,
+            202,
+            275,
+            242
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.3248724043369293,
+        "coordenadas": [
+            226,
+            202,
+            274,
+            242
+        ]
+    },
+    {
+        "objeto": "keyboard",
+        "confianca": 0.31395959854125977,
+        "coordenadas": [
+            439,
+            206,
+            497,
+            251
+        ]
+    },
+    {
+        "objeto": "cup",
+        "confianca": 0.2629454731941223,
+        "coordenadas": [
+            381,
+            203,
+            442,
+            271
+        ]
+    },
+    {
+        "objeto": "remote",
+        "confianca": 0.2610505521297455,
+        "coordenadas": [
+            300,
+            203,
+            384,
+            241
+        ]
+    },
+    {
+        "objeto": "cup",
+        "confianca": 0.33363351225852966,
+        "coordenadas": [
+            223,
+            201,
+            271,
+            224
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.31299903988838196,
+        "coordenadas": [
+            102,
+            205,
+            139,
+            400
+        ]
+    },
+    {
+        "objeto": "cup",
+        "confianca": 0.297367125749588,
+        "coordenadas": [
+            378,
+            202,
+            439,
+            253
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.2800026535987854,
+        "coordenadas": [
+            229,
+            202,
+            275,
+            243
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.5854611992835999,
+        "coordenadas": [
+            101,
+            202,
+            155,
+            394
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.482713520526886,
+        "coordenadas": [
+            238,
+            203,
+            287,
+            277
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.38817164301872253,
+        "coordenadas": [
+            391,
+            202,
+            452,
+            305
+        ]
+    },
+    {
+        "objeto": "keyboard",
+        "confianca": 0.3467422127723694,
+        "coordenadas": [
+            310,
+            236,
+            394,
+            274
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.6362057328224182,
+        "coordenadas": [
+            240,
+            203,
+            289,
+            281
+        ]
+    },
+    {
+        "objeto": "remote",
+        "confianca": 0.45745915174484253,
+        "coordenadas": [
+            310,
+            243,
+            396,
+            280
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.41229069232940674,
+        "coordenadas": [
+            101,
+            201,
+            158,
+            393
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.6009772419929504,
+        "coordenadas": [
+            240,
+            203,
+            289,
+            284
+        ]
+    },
+    {
+        "objeto": "keyboard",
+        "confianca": 0.3386128842830658,
+        "coordenadas": [
+            452,
+            250,
+            496,
+            288
+        ]
+    },
+    {
+        "objeto": "remote",
+        "confianca": 0.30340465903282166,
+        "coordenadas": [
+            311,
+            245,
+            397,
+            283
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.6570718288421631,
+        "coordenadas": [
+            241,
+            203,
+            290,
+            286
+        ]
+    },
+    {
+        "objeto": "remote",
+        "confianca": 0.49095839262008667,
+        "coordenadas": [
+            311,
+            248,
+            397,
+            285
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.4853508770465851,
+        "coordenadas": [
+            101,
+            201,
+            151,
+            376
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.4166618287563324,
+        "coordenadas": [
+            393,
+            203,
+            456,
+            315
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.6847301721572876,
+        "coordenadas": [
+            239,
+            203,
+            287,
+            287
+        ]
+    },
+    {
+        "objeto": "keyboard",
+        "confianca": 0.4371033310890198,
+        "coordenadas": [
+            448,
+            253,
+            495,
+            290
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.3705800175666809,
+        "coordenadas": [
+            392,
+            202,
+            453,
+            316
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.300651878118515,
+        "coordenadas": [
+            192,
+            204,
+            245,
+            288
+        ]
+    },
+    {
+        "objeto": "mouse",
+        "confianca": 0.5357226729393005,
+        "coordenadas": [
+            403,
+            282,
+            449,
+            314
+        ]
+    },
+    {
+        "objeto": "cat",
+        "confianca": 0.3802120089530945,
+        "coordenadas": [
+            313,
+            203,
+            372,
+            317
+        ]
+    },
+    {
+        "objeto": "mouse",
+        "confianca": 0.34815260767936707,
+        "coordenadas": [
+            230,
+            250,
+            319,
+            286
+        ]
+    },
+    {
+        "objeto": "cup",
+        "confianca": 0.2973705232143402,
+        "coordenadas": [
+            154,
+            203,
+            209,
+            292
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.27791526913642883,
+        "coordenadas": [
+            154,
+            203,
+            209,
+            292
+        ]
+    },
+    {
+        "objeto": "mouse",
+        "confianca": 0.8260090351104736,
+        "coordenadas": [
+            363,
+            280,
+            405,
+            316
+        ]
+    },
+    {
+        "objeto": "keyboard",
+        "confianca": 0.8182402849197388,
+        "coordenadas": [
+            324,
+            256,
+            457,
+            290
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.6690149903297424,
+        "coordenadas": [
+            103,
+            203,
+            158,
+            298
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.3081163763999939,
+        "coordenadas": [
+            264,
+            202,
+            326,
+            320
+        ]
+    },
+    {
+        "objeto": "mouse",
+        "confianca": 0.5849610567092896,
+        "coordenadas": [
+            340,
+            279,
+            381,
+            311
+        ]
+    },
+    {
+        "objeto": "cat",
+        "confianca": 0.3888716399669647,
+        "coordenadas": [
+            241,
+            203,
+            304,
+            318
+        ]
+    },
+    {
+        "objeto": "mouse",
+        "confianca": 0.3840847909450531,
+        "coordenadas": [
+            157,
+            250,
+            248,
+            290
+        ]
+    },
+    {
+        "objeto": "cup",
+        "confianca": 0.37279024720191956,
+        "coordenadas": [
+            101,
+            204,
+            137,
+            298
+        ]
+    },
+    {
+        "objeto": "mouse",
+        "confianca": 0.8415270447731018,
+        "coordenadas": [
+            315,
+            270,
+            355,
+            308
+        ]
+    },
+    {
+        "objeto": "keyboard",
+        "confianca": 0.6106315851211548,
+        "coordenadas": [
+            288,
+            249,
+            406,
+            284
+        ]
+    },
+    {
+        "objeto": "keyboard",
+        "confianca": 0.3479773998260498,
+        "coordenadas": [
+            311,
+            267,
+            360,
+            306
+        ]
+    },
+    {
+        "objeto": "mouse",
+        "confianca": 0.2606426775455475,
+        "coordenadas": [
+            130,
+            250,
+            216,
+            289
+        ]
+    },
+    {
+        "objeto": "mouse",
+        "confianca": 0.5278286933898926,
+        "coordenadas": [
+            260,
+            274,
+            299,
+            306
+        ]
+    },
+    {
+        "objeto": "mouse",
+        "confianca": 0.8711619973182678,
+        "coordenadas": [
+            240,
+            276,
+            279,
+            310
+        ]
+    },
+    {
+        "objeto": "keyboard",
+        "confianca": 0.7611887454986572,
+        "coordenadas": [
+            193,
+            251,
+            332,
+            287
+        ]
+    },
+    {
+        "objeto": "mouse",
+        "confianca": 0.8837503790855408,
+        "coordenadas": [
+            223,
+            271,
+            263,
+            306
+        ]
+    },
+    {
+        "objeto": "keyboard",
+        "confianca": 0.7410017251968384,
+        "coordenadas": [
+            179,
+            244,
+            319,
+            283
+        ]
+    },
+    {
+        "objeto": "mouse",
+        "confianca": 0.8641173839569092,
+        "coordenadas": [
+            219,
+            270,
+            261,
+            305
+        ]
+    },
+    {
+        "objeto": "keyboard",
+        "confianca": 0.7642682790756226,
+        "coordenadas": [
+            178,
+            244,
+            318,
+            283
+        ]
+    },
+    {
+        "objeto": "mouse",
+        "confianca": 0.8897696137428284,
+        "coordenadas": [
+            222,
+            277,
+            262,
+            313
+        ]
+    },
+    {
+        "objeto": "keyboard",
+        "confianca": 0.8477951288223267,
+        "coordenadas": [
+            176,
+            252,
+            319,
+            289
+        ]
+    },
+    {
+        "objeto": "mouse",
+        "confianca": 0.8552195429801941,
+        "coordenadas": [
+            221,
+            271,
+            262,
+            307
+        ]
+    },
+    {
+        "objeto": "keyboard",
+        "confianca": 0.6711910367012024,
+        "coordenadas": [
+            213,
+            246,
+            318,
+            281
+        ]
+    },
+    {
+        "objeto": "mouse",
+        "confianca": 0.6466951966285706,
+        "coordenadas": [
+            218,
+            250,
+            258,
+            286
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.4080647826194763,
+        "coordenadas": [
+            108,
+            202,
+            176,
+            296
+        ]
+    },
+    {
+        "objeto": "mouse",
+        "confianca": 0.8677886724472046,
+        "coordenadas": [
+            212,
+            235,
+            252,
+            270
+        ]
+    },
+    {
+        "objeto": "keyboard",
+        "confianca": 0.49615707993507385,
+        "coordenadas": [
+            164,
+            207,
+            310,
+            244
+        ]
+    },
+    {
+        "objeto": "chair",
+        "confianca": 0.35162353515625,
+        "coordenadas": [
+            427,
+            363,
+            497,
+            397
+        ]
+    },
+    {
+        "objeto": "chair",
+        "confianca": 0.2567012310028076,
+        "coordenadas": [
+            416,
+            337,
+            497,
+            398
+        ]
+    },
+    {
+        "objeto": "mouse",
+        "confianca": 0.5526849627494812,
+        "coordenadas": [
+            164,
+            290,
+            326,
+            374
+        ]
+    },
+    {
+        "objeto": "mouse",
+        "confianca": 0.6232922077178955,
+        "coordenadas": [
+            153,
+            304,
+            321,
+            392
+        ]
+    },
+    {
+        "objeto": "laptop",
+        "confianca": 0.28055113554000854,
+        "coordenadas": [
+            405,
+            266,
+            497,
+            395
+        ]
+    },
+    {
+        "objeto": "laptop",
+        "confianca": 0.31077033281326294,
+        "coordenadas": [
+            404,
+            261,
+            495,
+            393
+        ]
+    },
+    {
+        "objeto": "laptop",
+        "confianca": 0.4204193353652954,
+        "coordenadas": [
+            399,
+            269,
+            497,
+            395
+        ]
+    },
+    {
+        "objeto": "laptop",
+        "confianca": 0.4386807382106781,
+        "coordenadas": [
+            394,
+            269,
+            494,
+            396
+        ]
+    },
+    {
+        "objeto": "laptop",
+        "confianca": 0.306448757648468,
+        "coordenadas": [
+            393,
+            271,
+            493,
+            395
+        ]
+    },
+    {
+        "objeto": "laptop",
+        "confianca": 0.2750334143638611,
+        "coordenadas": [
+            389,
+            267,
+            494,
+            395
+        ]
+    },
+    {
+        "objeto": "chair",
+        "confianca": 0.3777763545513153,
+        "coordenadas": [
+            393,
+            281,
+            494,
+            394
+        ]
+    },
+    {
+        "objeto": "laptop",
+        "confianca": 0.3455503284931183,
+        "coordenadas": [
+            396,
+            285,
+            496,
+            394
+        ]
+    },
+    {
+        "objeto": "chair",
+        "confianca": 0.48421192169189453,
+        "coordenadas": [
+            404,
+            304,
+            497,
+            396
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.25252431631088257,
+        "coordenadas": [
+            103,
+            283,
+            247,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.30639731884002686,
+        "coordenadas": [
+            102,
+            274,
+            248,
+            393
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.27060189843177795,
+        "coordenadas": [
+            465,
+            262,
+            497,
+            390
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.2508721351623535,
+        "coordenadas": [
+            465,
+            262,
+            497,
+            389
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.3344038426876068,
+        "coordenadas": [
+            465,
+            265,
+            497,
+            391
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.29296624660491943,
+        "coordenadas": [
+            102,
+            277,
+            248,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.2984916865825653,
+        "coordenadas": [
+            103,
+            279,
+            246,
+            395
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.34120291471481323,
+        "coordenadas": [
+            104,
+            292,
+            251,
+            395
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.2582901418209076,
+        "coordenadas": [
+            467,
+            271,
+            498,
+            393
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.274437814950943,
+        "coordenadas": [
+            103,
+            292,
+            238,
+            394
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.2717133164405823,
+        "coordenadas": [
+            468,
+            271,
+            498,
+            391
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.31215304136276245,
+        "coordenadas": [
+            468,
+            272,
+            498,
+            393
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.2993814945220947,
+        "coordenadas": [
+            467,
+            274,
+            498,
+            395
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.36600789427757263,
+        "coordenadas": [
+            468,
+            276,
+            498,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.2936136722564697,
+        "coordenadas": [
+            103,
+            286,
+            382,
+            395
+        ]
+    },
+    {
+        "objeto": "mouse",
+        "confianca": 0.4097590446472168,
+        "coordenadas": [
+            277,
+            203,
+            320,
+            245
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.40540221333503723,
+        "coordenadas": [
+            183,
+            202,
+            246,
+            305
+        ]
+    },
+    {
+        "objeto": "keyboard",
+        "confianca": 0.380081444978714,
+        "coordenadas": [
+            283,
+            240,
+            382,
+            275
+        ]
+    },
+    {
+        "objeto": "mouse",
+        "confianca": 0.3576725423336029,
+        "coordenadas": [
+            288,
+            265,
+            328,
+            298
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.2668984532356262,
+        "coordenadas": [
+            190,
+            205,
+            252,
+            343
+        ]
+    },
+    {
+        "objeto": "cup",
+        "confianca": 0.29063358902931213,
+        "coordenadas": [
+            196,
+            247,
+            253,
+            396
+        ]
+    },
+    {
+        "objeto": "keyboard",
+        "confianca": 0.4314858019351959,
+        "coordenadas": [
+            234,
+            371,
+            368,
+            398
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.3112942576408386,
+        "coordenadas": [
+            176,
+            202,
+            246,
+            392
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.3006434440612793,
+        "coordenadas": [
+            164,
+            203,
+            226,
+            394
+        ]
+    },
+    {
+        "objeto": "mouse",
+        "confianca": 0.7422804832458496,
+        "coordenadas": [
+            264,
+            364,
+            304,
+            394
+        ]
+    },
+    {
+        "objeto": "keyboard",
+        "confianca": 0.6070566773414612,
+        "coordenadas": [
+            277,
+            342,
+            359,
+            374
+        ]
+    },
+    {
+        "objeto": "mouse",
+        "confianca": 0.8953119516372681,
+        "coordenadas": [
+            265,
+            352,
+            305,
+            388
+        ]
+    },
+    {
+        "objeto": "keyboard",
+        "confianca": 0.7778528928756714,
+        "coordenadas": [
+            221,
+            328,
+            358,
+            367
+        ]
+    },
+    {
+        "objeto": "mouse",
+        "confianca": 0.7871797680854797,
+        "coordenadas": [
+            266,
+            364,
+            306,
+            396
+        ]
+    },
+    {
+        "objeto": "keyboard",
+        "confianca": 0.6484622955322266,
+        "coordenadas": [
+            224,
+            340,
+            359,
+            376
+        ]
+    },
+    {
+        "objeto": "cup",
+        "confianca": 0.43909671902656555,
+        "coordenadas": [
+            114,
+            312,
+            149,
+            342
+        ]
+    },
+    {
+        "objeto": "mouse",
+        "confianca": 0.8662996888160706,
+        "coordenadas": [
+            265,
+            358,
+            305,
+            393
+        ]
+    },
+    {
+        "objeto": "keyboard",
+        "confianca": 0.8039378523826599,
+        "coordenadas": [
+            223,
+            336,
+            360,
+            371
+        ]
+    },
+    {
+        "objeto": "mouse",
+        "confianca": 0.8660688996315002,
+        "coordenadas": [
+            265,
+            358,
+            305,
+            393
+        ]
+    },
+    {
+        "objeto": "keyboard",
+        "confianca": 0.5529695749282837,
+        "coordenadas": [
+            224,
+            336,
+            357,
+            371
+        ]
+    },
+    {
+        "objeto": "mouse",
+        "confianca": 0.8691762685775757,
+        "coordenadas": [
+            265,
+            360,
+            305,
+            394
+        ]
+    },
+    {
+        "objeto": "keyboard",
+        "confianca": 0.6831440925598145,
+        "coordenadas": [
+            222,
+            338,
+            358,
+            373
+        ]
+    },
+    {
+        "objeto": "mouse",
+        "confianca": 0.867387056350708,
+        "coordenadas": [
+            266,
+            359,
+            305,
+            384
+        ]
+    },
+    {
+        "objeto": "keyboard",
+        "confianca": 0.5333164930343628,
+        "coordenadas": [
+            221,
+            337,
+            358,
+            373
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.4078279435634613,
+        "coordenadas": [
+            111,
+            294,
+            458,
+            394
+        ]
+    },
+    {
+        "objeto": "sink",
+        "confianca": 0.2611103057861328,
+        "coordenadas": [
+            101,
+            340,
+            160,
+            381
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.2528810501098633,
+        "coordenadas": [
+            166,
+            205,
+            227,
+            332
+        ]
+    },
+    {
+        "objeto": "sink",
+        "confianca": 0.2631436586380005,
+        "coordenadas": [
+            101,
+            339,
+            162,
+            378
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.25824880599975586,
+        "coordenadas": [
+            165,
+            203,
+            230,
+            340
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.2887609601020813,
+        "coordenadas": [
+            166,
+            205,
+            229,
+            342
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.27748334407806396,
+        "coordenadas": [
+            115,
+            217,
+            492,
+            395
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.31081461906433105,
+        "coordenadas": [
+            113,
+            216,
+            489,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.2521287202835083,
+        "coordenadas": [
+            118,
+            217,
+            492,
+            395
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.30044445395469666,
+        "coordenadas": [
+            165,
+            204,
+            228,
+            350
+        ]
+    },
+    {
+        "objeto": "cup",
+        "confianca": 0.306174635887146,
+        "coordenadas": [
+            114,
+            311,
+            149,
+            342
+        ]
+    },
+    {
+        "objeto": "cup",
+        "confianca": 0.26407361030578613,
+        "coordenadas": [
+            113,
+            312,
+            150,
+            341
+        ]
+    },
+    {
+        "objeto": "cup",
+        "confianca": 0.35793063044548035,
+        "coordenadas": [
+            112,
+            311,
+            149,
+            341
+        ]
+    },
+    {
+        "objeto": "cup",
+        "confianca": 0.2912368178367615,
+        "coordenadas": [
+            114,
+            312,
+            149,
+            341
+        ]
+    },
+    {
+        "objeto": "cup",
+        "confianca": 0.2714370787143707,
+        "coordenadas": [
+            114,
+            312,
+            150,
+            341
+        ]
+    },
+    {
+        "objeto": "cup",
+        "confianca": 0.27978086471557617,
+        "coordenadas": [
+            113,
+            312,
+            149,
+            341
+        ]
+    },
+    {
+        "objeto": "cup",
+        "confianca": 0.2637070417404175,
+        "coordenadas": [
+            114,
+            312,
+            150,
+            342
+        ]
+    },
+    {
+        "objeto": "cat",
+        "confianca": 0.3990268111228943,
+        "coordenadas": [
+            124,
+            203,
+            490,
+            392
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.30393949151039124,
+        "coordenadas": [
+            165,
+            205,
+            229,
+            365
+        ]
+    },
+    {
+        "objeto": "cat",
+        "confianca": 0.2740240693092346,
+        "coordenadas": [
+            114,
+            204,
+            492,
+            392
+        ]
+    },
+    {
+        "objeto": "cat",
+        "confianca": 0.2616688013076782,
+        "coordenadas": [
+            119,
+            202,
+            496,
+            391
+        ]
+    },
+    {
+        "objeto": "remote",
+        "confianca": 0.3138607144355774,
+        "coordenadas": [
+            296,
+            345,
+            362,
+            378
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.5011857748031616,
+        "coordenadas": [
+            167,
+            203,
+            229,
+            338
+        ]
+    },
+    {
+        "objeto": "remote",
+        "confianca": 0.34608471393585205,
+        "coordenadas": [
+            292,
+            345,
+            362,
+            378
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.28362658619880676,
+        "coordenadas": [
+            112,
+            213,
+            476,
+            394
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.3106738030910492,
+        "coordenadas": [
+            167,
+            203,
+            229,
+            334
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.34519606828689575,
+        "coordenadas": [
+            167,
+            203,
+            230,
+            329
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.584374725818634,
+        "coordenadas": [
+            166,
+            203,
+            229,
+            333
+        ]
+    },
+    {
+        "objeto": "cup",
+        "confianca": 0.36973220109939575,
+        "coordenadas": [
+            114,
+            314,
+            149,
+            343
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.26750245690345764,
+        "coordenadas": [
+            167,
+            203,
+            229,
+            333
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.2520328164100647,
+        "coordenadas": [
+            166,
+            203,
+            234,
+            344
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.26877689361572266,
+        "coordenadas": [
+            120,
+            214,
+            490,
+            395
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.2939424216747284,
+        "coordenadas": [
+            124,
+            216,
+            488,
+            395
+        ]
+    },
+    {
+        "objeto": "cup",
+        "confianca": 0.5644049644470215,
+        "coordenadas": [
+            114,
+            313,
+            150,
+            343
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.3888302147388458,
+        "coordenadas": [
+            116,
+            213,
+            477,
+            394
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.3334430754184723,
+        "coordenadas": [
+            168,
+            204,
+            230,
+            346
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.3316069543361664,
+        "coordenadas": [
+            117,
+            215,
+            477,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.25750482082366943,
+        "coordenadas": [
+            118,
+            213,
+            471,
+            395
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.2707189619541168,
+        "coordenadas": [
+            113,
+            216,
+            479,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.27369746565818787,
+        "coordenadas": [
+            121,
+            216,
+            472,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.31939202547073364,
+        "coordenadas": [
+            114,
+            216,
+            484,
+            395
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.2856788635253906,
+        "coordenadas": [
+            116,
+            212,
+            477,
+            395
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.2509618401527405,
+        "coordenadas": [
+            118,
+            215,
+            475,
+            394
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.29309386014938354,
+        "coordenadas": [
+            114,
+            216,
+            474,
+            394
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.36413267254829407,
+        "coordenadas": [
+            168,
+            204,
+            230,
+            343
+        ]
+    },
+    {
+        "objeto": "keyboard",
+        "confianca": 0.3268842101097107,
+        "coordenadas": [
+            243,
+            351,
+            360,
+            385
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.48777514696121216,
+        "coordenadas": [
+            168,
+            205,
+            230,
+            372
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.4849022328853607,
+        "coordenadas": [
+            167,
+            205,
+            230,
+            358
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.534562349319458,
+        "coordenadas": [
+            168,
+            204,
+            230,
+            346
+        ]
+    },
+    {
+        "objeto": "dining table",
+        "confianca": 0.2633552849292755,
+        "coordenadas": [
+            107,
+            294,
+            459,
+            394
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.35012227296829224,
+        "coordenadas": [
+            168,
+            204,
+            230,
+            339
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.4535113275051117,
+        "coordenadas": [
+            168,
+            203,
+            230,
+            340
+        ]
+    },
+    {
+        "objeto": "dining table",
+        "confianca": 0.261029452085495,
+        "coordenadas": [
+            108,
+            272,
+            482,
+            394
+        ]
+    },
+    {
+        "objeto": "dining table",
+        "confianca": 0.26325324177742004,
+        "coordenadas": [
+            103,
+            273,
+            470,
+            395
+        ]
+    },
+    {
+        "objeto": "cat",
+        "confianca": 0.3289095163345337,
+        "coordenadas": [
+            107,
+            276,
+            395,
+            393
+        ]
+    },
+    {
+        "objeto": "baseball bat",
+        "confianca": 0.3354896306991577,
+        "coordenadas": [
+            331,
+            212,
+            399,
+            248
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.3181542456150055,
+        "coordenadas": [
+            105,
+            204,
+            349,
+            393
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.4047551155090332,
+        "coordenadas": [
+            108,
+            213,
+            384,
+            393
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.4564014971256256,
+        "coordenadas": [
+            103,
+            211,
+            446,
+            392
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.27576252818107605,
+        "coordenadas": [
+            169,
+            203,
+            228,
+            261
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.2719224691390991,
+        "coordenadas": [
+            104,
+            210,
+            447,
+            393
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.3759438395500183,
+        "coordenadas": [
+            100,
+            202,
+            465,
+            393
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.5007925629615784,
+        "coordenadas": [
+            101,
+            202,
+            443,
+            393
+        ]
+    },
+    {
+        "objeto": "person",
+        "confianca": 0.25883468985557556,
+        "coordenadas": [
+            106,
+            218,
+            437,
+            394
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.3960765600204468,
+        "coordenadas": [
+            169,
+            203,
+            231,
+            324
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.40484780073165894,
+        "coordenadas": [
+            168,
+            204,
+            230,
+            338
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.2867933213710785,
+        "coordenadas": [
+            242,
+            256,
+            424,
+            298
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.37503141164779663,
+        "coordenadas": [
+            231,
+            261,
+            432,
+            303
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.3005278706550598,
+        "coordenadas": [
+            168,
+            204,
+            231,
+            340
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.7100037336349487,
+        "coordenadas": [
+            169,
+            203,
+            230,
+            335
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.29934969544410706,
+        "coordenadas": [
+            232,
+            248,
+            432,
+            298
+        ]
+    },
+    {
+        "objeto": "knife",
+        "confianca": 0.3585411608219147,
+        "coordenadas": [
+            239,
+            214,
+            393,
+            285
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.25486597418785095,
+        "coordenadas": [
+            167,
+            203,
+            230,
+            322
+        ]
+    },
+    {
+        "objeto": "knife",
+        "confianca": 0.2577720880508423,
+        "coordenadas": [
+            243,
+            209,
+            392,
+            287
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.31517404317855835,
+        "coordenadas": [
+            168,
+            202,
+            229,
+            315
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.4697760343551636,
+        "coordenadas": [
+            169,
+            203,
+            230,
+            312
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.43636247515678406,
+        "coordenadas": [
+            245,
+            232,
+            407,
+            283
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.25003302097320557,
+        "coordenadas": [
+            248,
+            243,
+            434,
+            284
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.45385637879371643,
+        "coordenadas": [
+            167,
+            203,
+            228,
+            322
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.43424832820892334,
+        "coordenadas": [
+            167,
+            203,
+            228,
+            314
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.3616965115070343,
+        "coordenadas": [
+            257,
+            243,
+            427,
+            285
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.3990400433540344,
+        "coordenadas": [
+            166,
+            204,
+            228,
+            324
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.3476888835430145,
+        "coordenadas": [
+            167,
+            203,
+            228,
+            324
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.4039570689201355,
+        "coordenadas": [
+            251,
+            243,
+            400,
+            284
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.34387245774269104,
+        "coordenadas": [
+            167,
+            204,
+            229,
+            326
+        ]
+    },
+    {
+        "objeto": "motorcycle",
+        "confianca": 0.2922804653644562,
+        "coordenadas": [
+            107,
+            219,
+            480,
+            396
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.3860529959201813,
+        "coordenadas": [
+            167,
+            203,
+            229,
+            324
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.4485432505607605,
+        "coordenadas": [
+            167,
+            204,
+            229,
+            324
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.5791897773742676,
+        "coordenadas": [
+            167,
+            204,
+            228,
+            320
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.25928235054016113,
+        "coordenadas": [
+            252,
+            237,
+            428,
+            281
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.4838438332080841,
+        "coordenadas": [
+            168,
+            204,
+            229,
+            322
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.33167916536331177,
+        "coordenadas": [
+            167,
+            203,
+            230,
+            327
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.5285350680351257,
+        "coordenadas": [
+            169,
+            204,
+            230,
+            332
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.2568427324295044,
+        "coordenadas": [
+            250,
+            244,
+            418,
+            288
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.3624718189239502,
+        "coordenadas": [
+            256,
+            235,
+            427,
+            280
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.3478926718235016,
+        "coordenadas": [
+            255,
+            232,
+            432,
+            276
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.288878858089447,
+        "coordenadas": [
+            169,
+            203,
+            230,
+            323
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.559647798538208,
+        "coordenadas": [
+            169,
+            205,
+            230,
+            329
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.3629630506038666,
+        "coordenadas": [
+            169,
+            204,
+            230,
+            325
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.27479666471481323,
+        "coordenadas": [
+            249,
+            237,
+            418,
+            285
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.47248077392578125,
+        "coordenadas": [
+            169,
+            205,
+            230,
+            325
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.2881912887096405,
+        "coordenadas": [
+            249,
+            238,
+            414,
+            284
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.40705764293670654,
+        "coordenadas": [
+            167,
+            205,
+            230,
+            326
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.2687070667743683,
+        "coordenadas": [
+            249,
+            236,
+            411,
+            284
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.5082316398620605,
+        "coordenadas": [
+            168,
+            204,
+            230,
+            325
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.29823997616767883,
+        "coordenadas": [
+            248,
+            236,
+            400,
+            283
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.4754214882850647,
+        "coordenadas": [
+            169,
+            204,
+            230,
+            326
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.4458144009113312,
+        "coordenadas": [
+            247,
+            235,
+            414,
+            282
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.3885714113712311,
+        "coordenadas": [
+            167,
+            204,
+            231,
+            326
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.3537573218345642,
+        "coordenadas": [
+            249,
+            234,
+            398,
+            280
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.36255863308906555,
+        "coordenadas": [
+            167,
+            203,
+            230,
+            330
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.48265814781188965,
+        "coordenadas": [
+            168,
+            203,
+            230,
+            325
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.361286461353302,
+        "coordenadas": [
+            247,
+            234,
+            414,
+            283
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.5071746706962585,
+        "coordenadas": [
+            168,
+            204,
+            230,
+            326
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.35256096720695496,
+        "coordenadas": [
+            246,
+            234,
+            420,
+            283
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.4224138855934143,
+        "coordenadas": [
+            169,
+            204,
+            230,
+            323
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.3514487147331238,
+        "coordenadas": [
+            246,
+            234,
+            421,
+            283
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.38383790850639343,
+        "coordenadas": [
+            168,
+            203,
+            230,
+            334
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.3416629433631897,
+        "coordenadas": [
+            248,
+            236,
+            415,
+            286
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.4269537031650543,
+        "coordenadas": [
+            168,
+            202,
+            231,
+            323
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.32723110914230347,
+        "coordenadas": [
+            247,
+            235,
+            416,
+            283
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.32823580503463745,
+        "coordenadas": [
+            246,
+            234,
+            425,
+            285
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.3059733808040619,
+        "coordenadas": [
+            168,
+            204,
+            230,
+            328
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.459463506937027,
+        "coordenadas": [
+            168,
+            203,
+            230,
+            328
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.29710134863853455,
+        "coordenadas": [
+            247,
+            235,
+            409,
+            284
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.45263874530792236,
+        "coordenadas": [
+            169,
+            204,
+            230,
+            329
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.3750155568122864,
+        "coordenadas": [
+            246,
+            234,
+            418,
+            283
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.255856454372406,
+        "coordenadas": [
+            168,
+            203,
+            230,
+            326
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.40010643005371094,
+        "coordenadas": [
+            169,
+            204,
+            231,
+            322
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.31818774342536926,
+        "coordenadas": [
+            246,
+            232,
+            424,
+            283
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.41021376848220825,
+        "coordenadas": [
+            246,
+            233,
+            417,
+            283
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.33674192428588867,
+        "coordenadas": [
+            169,
+            204,
+            230,
+            327
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.2919931411743164,
+        "coordenadas": [
+            168,
+            204,
+            231,
+            325
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.26917025446891785,
+        "coordenadas": [
+            245,
+            233,
+            417,
+            285
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.272878497838974,
+        "coordenadas": [
+            168,
+            204,
+            230,
+            325
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.3531220853328705,
+        "coordenadas": [
+            244,
+            233,
+            414,
+            282
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.35709571838378906,
+        "coordenadas": [
+            245,
+            229,
+            410,
+            276
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.333297997713089,
+        "coordenadas": [
+            246,
+            228,
+            420,
+            277
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.3111838102340698,
+        "coordenadas": [
+            168,
+            203,
+            230,
+            322
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.4178740680217743,
+        "coordenadas": [
+            168,
+            204,
+            231,
+            319
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.38058972358703613,
+        "coordenadas": [
+            243,
+            226,
+            424,
+            277
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.3699454367160797,
+        "coordenadas": [
+            168,
+            203,
+            230,
+            315
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.3555937707424164,
+        "coordenadas": [
+            167,
+            204,
+            230,
+            323
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.45010465383529663,
+        "coordenadas": [
+            169,
+            203,
+            230,
+            327
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.45010465383529663,
+        "coordenadas": [
+            169,
+            203,
+            230,
+            327
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.28837117552757263,
+        "coordenadas": [
+            169,
+            204,
+            230,
+            324
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.28479278087615967,
+        "coordenadas": [
+            248,
+            231,
+            400,
+            282
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.5206501483917236,
+        "coordenadas": [
+            168,
+            203,
+            230,
+            332
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.49185723066329956,
+        "coordenadas": [
+            169,
+            204,
+            230,
+            326
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.2971222996711731,
+        "coordenadas": [
+            246,
+            233,
+            417,
+            284
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.5331166982650757,
+        "coordenadas": [
+            169,
+            204,
+            230,
+            325
+        ]
+    },
+    {
+        "objeto": "toothbrush",
+        "confianca": 0.28467345237731934,
+        "coordenadas": [
+            245,
+            235,
+            418,
+            286
+        ]
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.37454530596733093
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.28010323643684387
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.2590909004211426
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.2742832899093628
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.32055431604385376
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.38658905029296875
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.3548143804073334
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.44249093532562256
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.4385650157928467
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.33624884486198425
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.32243597507476807
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.4506768584251404
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.43014034628868103
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.2706066966056824
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.2682427763938904
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.5299075245857239
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.3867339491844177
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.33390161395072937
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.2758205235004425
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.3319557011127472
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.34160399436950684
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.3134021461009979
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.3331499397754669
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.3351200819015503
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.4962671995162964
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.26763397455215454
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.2921227514743805
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.29457929730415344
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.3011675179004669
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.283028781414032
+    },
+    {
+        "objeto": "bottle",
+        "confianca": 0.3837277293205261
+    }
+]
